@@ -1,0 +1,28 @@
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\bin\Debug\net8.0\TASKS.exe
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\bin\Debug\net8.0\TASKS.deps.json
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\bin\Debug\net8.0\TASKS.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\bin\Debug\net8.0\TASKS.dll
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\bin\Debug\net8.0\TASKS.pdb
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.dll
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\refint\TASKS.dll
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.pdb
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\ref\TASKS.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\bin\Debug\net8.0\TASKS.exe
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\bin\Debug\net8.0\TASKS.deps.json
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\bin\Debug\net8.0\TASKS.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\bin\Debug\net8.0\TASKS.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\bin\Debug\net8.0\TASKS.pdb
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\refint\TASKS.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.pdb
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\TASKS.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\Inheritance-Tasks\Inheritance-StringBuilder-IsA-HasA\TASKS\obj\Debug\net8.0\ref\TASKS.dll
